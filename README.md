@@ -16,3 +16,5 @@ Oi, meu nome é Kezia Campos! Sou brasileira e no momento eu sou estudante bacha
 Gosto de estudar de tudo um pouco e no momento meu foco é dados.
 
 
+Linkedin: https://www.linkedin.com/in/keziacamposcs/
+Instagram:https://www.instagram.com/keziacamposcs/
