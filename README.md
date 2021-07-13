@@ -16,5 +16,8 @@ Oi, meu nome é Kezia Campos! Sou brasileira e no momento eu sou estudante bacha
 Gosto de estudar de tudo um pouco e no momento meu foco é Inteligência Artificial.
 
 ---
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
+
+---
 Linkedin: https://www.linkedin.com/in/keziacamposcs/
 Instagram:https://www.instagram.com/keziacamposcs/
