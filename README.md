@@ -1,6 +1,6 @@
 <h1 align="center">
   
-![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/welcomeGithub.png)
+![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/welcomeGithub1.png)
 
 </h1>
 
