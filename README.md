@@ -38,3 +38,10 @@ Gosto de estudar de tudo um pouco e no momento meu foco é Inteligência Artific
 ---
 Linkedin: https://www.linkedin.com/in/keziacamposcs/
 Instagram:https://www.instagram.com/keziacamposcs/
+
+
+---
+Créditos:
+Algumas ilustrações foram coletadas no site: https://icons8.com/illustrations
+Gifs: https://giphy.com/
+Desings: Kezia Campos :)
