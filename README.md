@@ -43,4 +43,4 @@ Instagram:https://www.instagram.com/keziacamposcs/
 Créditos:
 Algumas ilustrações foram coletadas no site: https://icons8.com/illustrations
 Gifs: https://giphy.com/
-Desings: Kezia Campos :)
+Designs: Kezia Campos :)
