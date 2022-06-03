@@ -1,4 +1,4 @@
-![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%201.png)
+![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/welcome.png)
 
 ![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%202.png)
 *  FEMASS - Estrutura de Dados: [Aqui](https://github.com/keziacamposcs/Femass_EstruturaDeDados_C)
