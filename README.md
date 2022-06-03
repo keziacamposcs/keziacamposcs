@@ -10,7 +10,6 @@
 ![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%203.png)
 * ### Dashboard Venda Simples: [Aqui](https://github.com/keziacamposcs/dashboard_vendas_simples)
 
-
 ![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%204.png)
 * ### Análise de Dados & Machine Learning: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning)
 
@@ -19,11 +18,12 @@
 * ### Controle de Ponto por Reconhecimento Facial: [Aqui](https://github.com/keziacamposcs/ControlePontoReconhecimentoFacial)
 ---
 * ### Web Scrapping: [Aqui](https://github.com/keziacamposcs/WebScraping)
+* ### Assistente de e-mail de voz usando Python : [Aqui](https://github.com/keziacamposcs/IA_emailPython)
 
 ---
 Linkedin: https://www.linkedin.com/in/keziacamposcs/
-Instagram:https://www.instagram.com/keziacamposcs/
-
+Instagram: https://www.instagram.com/keziacamposcs/
+Website e CV: https://keziacamposcs.github.io/
 ---
 Créditos:
 Ícones e Ilustrações : https://icons8.com
