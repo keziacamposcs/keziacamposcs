@@ -13,7 +13,7 @@
 *  Dashboard Venda Simples: [Aqui](https://github.com/keziacamposcs/dashboard_vendas_simples)
 
 
-# Análise de Dados & Machine Learning (Data Analytics and Machine Learning) 📶
+# Análise de Dados & Machine Learning (Data Analytics & Machine Learning) 📶
 *  Análise de Dados & Machine Learning: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning)
 
 
