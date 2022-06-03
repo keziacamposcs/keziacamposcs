@@ -13,6 +13,10 @@
 ![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%204.png)
 *  Análise de Dados & Machine Learning: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning)
 
+![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%205.png)
+*  NLP: [Aqui](https://github.com/keziacamposcs/NLP)
+*  Assistente de e-mail de voz usando Python : [Aqui](https://github.com/keziacamposcs/IA_emailPython)
+
 ![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%205-1.png)
 *  Treinando YOLO e Aplicando: [Aqui](https://github.com/keziacamposcs/TreinandocomYOLOeAplicando)
 *  Controle de Ponto por Reconhecimento Facial: [Aqui](https://github.com/keziacamposcs/ControlePontoReconhecimentoFacial)
@@ -20,7 +24,6 @@
 ---
 
 *  Web Scrapping: [Aqui](https://github.com/keziacamposcs/WebScraping)
-*  Assistente de e-mail de voz usando Python : [Aqui](https://github.com/keziacamposcs/IA_emailPython)
 
 ---
 
