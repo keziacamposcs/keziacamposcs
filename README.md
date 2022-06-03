@@ -13,7 +13,7 @@
 * Análise de Dados & Machine Learning: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning)
 
 ![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/Prancheta%205-1.png)
-* Treinando YOLO e Aplicando: [Aqui](https://github.com/keziacamposcs/TreinandocomYOLOeAplicando)
+* ### Treinando YOLO e Aplicando: [Aqui](https://github.com/keziacamposcs/TreinandocomYOLOeAplicando)
 * Controle de Ponto por Reconhecimento Facial: [Aqui](https://github.com/keziacamposcs/ControlePontoReconhecimentoFacial)
 
 ---
