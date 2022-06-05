@@ -42,12 +42,12 @@
 
 ---
 # ✨Badges✨
-<img src="https://user-images.githubusercontent.com/32270979/171940444-0e079dd1-e583-4bc8-870b-b4e339c40ae0.png" src="https://user-images.githubusercontent.com/32270979/171940525-d0c0a8ea-0552-4344-b56d-63f76d430298.png" width="100"/>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/32270979/171940444-0e079dd1-e583-4bc8-870b-b4e339c40ae0.png"width="100"/>
 <img src="https://user-images.githubusercontent.com/32270979/171940525-d0c0a8ea-0552-4344-b56d-63f76d430298.png" width="100"/>
 <img src="https://user-images.githubusercontent.com/32270979/171940570-cbdb5b37-75c3-4815-9b84-f53f192d8061.png" width="100"/>
 <img src="https://user-images.githubusercontent.com/32270979/171940596-2420a3c6-21aa-4b0e-a423-fe37f42b7403.png" width="100"/>
-![alt text](https://user-images.githubusercontent.com/32270979/171940444-0e079dd1-e583-4bc8-870b-b4e339c40ae0.png)
-
+</p>
 ---
 Linkedin: https://www.linkedin.com/in/keziacamposcs/
 
