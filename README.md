@@ -58,3 +58,8 @@ Instagram: https://www.instagram.com/keziacamposcs/
 
 Website e CV: https://keziacamposcs.github.io/
 
+---
+
+Ferramentas:
+- https://datalore.jetbrains.com/
+- https://colab.research.google.com/
