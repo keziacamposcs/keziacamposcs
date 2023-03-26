@@ -27,7 +27,7 @@
 # Visão Computacional (Computer Vision) 👀
 *  Treinando YOLO e Aplicando: [Aqui](https://github.com/keziacamposcs/TreinandocomYOLOeAplicando)
 *  Controle de Ponto por Reconhecimento Facial: [Aqui](https://github.com/keziacamposcs/ControlePontoReconhecimentoFacial)
-*  Programa de Reconhecimento Facial: [Aqui](https://github.com/keziacamposcs/ReconhecimentoFacial)
+* ...
 
 *  Tradutor de Libras: Em andamento...
 
