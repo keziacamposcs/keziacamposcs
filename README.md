@@ -1,18 +1,14 @@
 ![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/welcome.png)
 
 
-# Faculdade (College) 🎓
-*  FEMASS - Estrutura de Dados: [Aqui](https://github.com/keziacamposcs/Femass_EstruturaDeDados_C)
-*  FEMASS - JAVA: [Aqui](https://github.com/keziacamposcs/Femass_Java)
-*  FEMASS - Banco de Dados: [Aqui](https://github.com/keziacamposcs/Femass_BancoDeDados)
-*  FEMASS - Assembly MIPS: [Aqui](https://github.com/keziacamposcs/Femass_AssemblyMIPS)
-*  FEMASS - C: [Aqui](https://github.com/keziacamposcs/Femass_C)
+
 
 
 # Desenvolvimento (Development) 💻
-*  Dashboard Venda Simples: [Aqui](https://github.com/keziacamposcs/DashboardVendasSimples)
+*  Dashboard Venda Simples - Aplicação Básica de CRUD com PHP: [Aqui](https://github.com/keziacamposcs/DashboardVendasSimples)
 *  Aplicação de CRUD com WebApp ASP.NET Core: [Aqui](https://github.com/keziacamposcs/ASP.NETCore_CRUD)
-* ...
+*  Sistema de Requisições de compras para Navios (Oil and Gas Companies) com Laravel : Em breve...
+*  Sistema para Administração de Pedidos (Case: Bar): Em breve...
 * ...
 
 
@@ -34,6 +30,13 @@
 # Python 🐍
 *  Python: [Aqui](https://github.com/keziacamposcs/Python)
 
+
+# Faculdade (College) 🎓
+*  FEMASS - Estrutura de Dados: [Aqui](https://github.com/keziacamposcs/Femass_EstruturaDeDados_C)
+*  FEMASS - JAVA: [Aqui](https://github.com/keziacamposcs/Femass_Java)
+*  FEMASS - Banco de Dados: [Aqui](https://github.com/keziacamposcs/Femass_BancoDeDados)
+*  FEMASS - Assembly MIPS: [Aqui](https://github.com/keziacamposcs/Femass_AssemblyMIPS)
+*  FEMASS - C: [Aqui](https://github.com/keziacamposcs/Femass_C)
 ---
 
 # Outros (Others) 💻
