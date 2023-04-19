@@ -39,6 +39,7 @@
 *  FEMASS - Banco de Dados: [Aqui](https://github.com/keziacamposcs/Femass_BancoDeDados)
 *  FEMASS - Assembly MIPS: [Aqui](https://github.com/keziacamposcs/Femass_AssemblyMIPS)
 *  FEMASS - C: [Aqui](https://github.com/keziacamposcs/Femass_C)
+*  FEMASS - JAVA com Maven (Sistema de Agendamento Médico Básico): [Aqui](https://github.com/keziacamposcs/Femass_AgendaMedico)
 ---
 
 # Outros (Others) 💻
