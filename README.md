@@ -1,4 +1,4 @@
-![alt text](https://github.com/keziacamposcs/keziacamposcs/blob/main/images/welcome.png)
+![alt text](https://raw.githubusercontent.com/keziacamposcs/keziacamposcs/main/README/Welcome.png)
 
 
 
