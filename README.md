@@ -1,9 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/keziacamposcs/keziacamposcs/main/README/Welcome.png)
 
-
-
-
-
 # Desenvolvimento (Development) 💻
 *  Dashboard Venda Simples - Aplicação Básica de CRUD com PHP: [Aqui](https://github.com/keziacamposcs/DashboardVendasSimples)
 *  Aplicação de CRUD com WebApp ASP.NET Core: [Aqui](https://github.com/keziacamposcs/ASP.NETCore_CRUD)
@@ -14,10 +10,8 @@
 *  Sistema de Organização de Materiais com Angular14: Em breve...
 * ...
 
-
 # Análise de Dados & Machine Learning (Data Analytics & Machine Learning) 📶
 *  Análise de Dados & Machine Learning: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning)
-
 
 # Processamento de Linguagem Natural (NLP) 🗣️
 *  NLP: [Aqui](https://github.com/keziacamposcs/NLP)
@@ -26,8 +20,6 @@
 # Visão Computacional (Computer Vision) 👀
 *  Treinando YOLO e Aplicando: [Aqui](https://github.com/keziacamposcs/TreinandocomYOLOeAplicando)
 *  Controle de Ponto por Reconhecimento Facial: [Aqui](https://github.com/keziacamposcs/ControlePontoReconhecimentoFacial)
-* ...
-
 *  Tradutor de Libras: Em andamento...
 
 # Python 🐍
@@ -65,9 +57,6 @@ Instagram: https://www.instagram.com/keziacamposcs/
 Website e CV: https://keziacamposcs.github.io/
 
 ---
-
-Ferramentas:
-- https://datalore.jetbrains.com/
 - https://colab.research.google.com/
 
 - https://readme.so/pt
