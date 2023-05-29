@@ -6,7 +6,8 @@
 * Application **Web API with .NET6**: [Here](https://github.com/keziacamposcs/WebAPI_NET6_Filmes) - **with details** 👀
 * Central Bank JSON API Converter for XML - **Using ASP.NET Core and MVC**: [Here](https://github.com/keziacamposcs/Web_Json_to_XML) 
 * Webservices (SOAP & REST): [Here](https://github.com/keziacamposcs/WebServices)
-* Offshore Material Organization System - **ASP.NET 7 with MVC** - OffshoreTrack :[Here]()
+* Offshore Material Organization System - **ASP.NET 7 with MVC** - OffshoreTrack :[Here](https://github.com/keziacamposcs/OffshoreTrack)
+* Integration between Web System and Desktop through API - **ASP.NET 7 with MVC → WebAPI ASP.NET Core 7 → MAUI APP**  : [Here](https://github.com/keziacamposcs/IntegrationBetween2API)
 * ...
 
 
