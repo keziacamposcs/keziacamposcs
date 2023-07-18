@@ -31,8 +31,8 @@ My Website - Portfólio: [Link](https://keziacamposcs.github.io)
 * Offshore Material Organization System - **ASP.NET 7 with MVC** - OffshoreTrack: [Here](https://github.com/keziacamposcs/Offshore) or Check the website: [Here](https://keziacamposcs.github.io/Offshore/)
 * Integration between 2 APIs - **ASP.NET 7 with MVC → WebAPI ASP.NET Core 7**: [Here](https://github.com/keziacamposcs/IntegrationAPI)
 * Ordering system for Bars and Restaurants - **Laravel 9 + PHP** - Asterisco: *SOON* ... Visit the website: [Here](https://keziacamposcs.github.io/asterisco/)
-* *PS: Working on Asterisk to make the invoice in Brazil...*
-* Intelligent Presentation System with Computer Vision - **Mediapipe & Javascript** - HandBunny:[Here](https://github.com/keziacamposcs/HandBunny) or Check the website: [Here](https://keziacamposcs.github.io/HandBunny/)
+ *PS: Working on Asterisk to make the invoice in Brazil...*
+* Intelligent Presentation System with Computer Vision - **Mediapipe & Javascript** - HandBunny: [Here](https://github.com/keziacamposcs/HandBunny) or Check the website: [Here](https://keziacamposcs.github.io/HandBunny/)
 * ...
 
 
