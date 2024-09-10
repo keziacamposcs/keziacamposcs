@@ -23,9 +23,14 @@ My Website - Portfólio: [Link](https://keziacamposcs.github.io)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+# Codexti 🚀
+Co-founder - Focused on innovation, technology and development 🚀
+https://codexti.com/
+
+
 # Development 💻
 * Reimbursement system and application between company and employee -  **LEVE** 🪶: [Here](https://leveapp.net/)
-* Offshore Material Organization System - **ASP.NET 7 with MVC** - OffshoreTrack: [Here](https://github.com/keziacamposcs/Offshore) or Check the website: [Here](https://keziacamposcs.github.io/Offshore/)
+* Offshore Material Organization System - **ASP.NET 7 with MVC** - OffshoreTrack
 * Ordering system for Bars and Restaurants - **Laravel 9 + PHP** - ✳️ Asterisco ✳️: *SOON* ... Visit the website: [Here](https://keziacamposcs.github.io/asterisco/)
  *PS: Working on **Asterisco** to make the invoice in Brazil...*
 * Intelligent Presentation System with Computer Vision - **Mediapipe & Javascript** - 🐰 HandBunny: [Here](https://github.com/keziacamposcs/HandBunny) or Check the website: [Here](https://keziacamposcs.github.io/HandBunny/)
