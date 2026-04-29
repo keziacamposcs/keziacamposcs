@@ -23,10 +23,6 @@ My Website - Portfólio: [Link](https://keziacamposcs.github.io)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-# Codexti 🚀
-Co-founder - Focused on innovation, technology and development 🚀
-https://codexti.com/
-
 
 # 🚀 Products
 
