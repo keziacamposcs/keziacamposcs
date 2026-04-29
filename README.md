@@ -28,14 +28,35 @@ Co-founder - Focused on innovation, technology and development 🚀
 https://codexti.com/
 
 
-# Development 💻
-* Reimbursement system and application between company and employee -  **LEVE** 🪶: [Here](https://leveapp.net/)
-* Offshore Material Organization System - **ASP.NET 7 with MVC** - OffshoreTrack
-* Ordering system for Bars and Restaurants - **Laravel 9 + PHP** - ✳️ Asterisco ✳️: *SOON* ... Visit the website: [Here](https://keziacamposcs.github.io/asterisco/)
- *PS: Working on **Asterisco** to make the invoice in Brazil...*
+# 🚀 Products
+
+> All products built end-to-end — from concept, architecture, and design to deployment and team enablement.
+
+---
+
+### 🪶 Leve — Corporate Expense Management
+> Reimbursement platform connecting employees and companies with configurable approval workflows, spending policies, cost center management, and analytics dashboards.
+
+**Platforms:** 🌐 [Web](https://leve.codexti.com) · 📱 iOS · Android  
+
+---
+
+### 🧭 Rumos — Executive Transport & Fleet Management  
+> Corporate logistics platform for managing executive transport, fleet maintenance, driver coordination, and real-time trip tracking.
+
+**Platforms:** 🌐 [Web](https://rumos.codexti.com) · 📱 iOS · Android  
+
+---
+
+### 💑 Dvoi — Couples App  
+> Mobile-first app for couples featuring shared expense splitting, real-time synced lists, and a couples calendar with push notifications.
+
+**Platforms:** 🌐 [Web](https://dvoiapp.com) · 📱 iOS · Android
+
+---
+Others
+
 * Intelligent Presentation System with Computer Vision - **Mediapipe & Javascript** - 🐰 HandBunny: [Here](https://github.com/keziacamposcs/HandBunny) or Check the website: [Here](https://keziacamposcs.github.io/HandBunny/)
-  
-  ---
   
 * Application **Web API with .NET6**: [Here](https://github.com/keziacamposcs/WebAPI_NET6_Filmes) - **with details** 👀
 * Central Bank JSON API Converter for XML - **Using ASP.NET Core and MVC**: [Here](https://github.com/keziacamposcs/Web_Json_to_XML) 
